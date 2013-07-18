@@ -1,0 +1,86 @@
+{
+  "name": "Illah Speck Test 2",
+  "v2": {
+    "x_axis": {
+      "min": 1367949859.5108442,
+      "max": 1368198729.5108068
+    },
+    "y_axes": [
+      {
+        "device_name": "Speck_IRN_K",
+        "channel_name": "particles",
+        "object_type_name": "particles",
+        "min": -822.031640625,
+        "max": 9042.348046875,
+        "style": {
+          "highlight": {
+            "styles": [
+              {
+                "type": "value",
+                "show": true,
+                "fillColor": "rgb(255, 0, 255)",
+                "marginWidth": 5,
+                "verticalOffset": 7,
+                "numberFormat": "###,##0"
+              }
+            ],
+            "lineWidth": 2
+          },
+          "comments": {
+            "show": true,
+            "styles": [
+              {
+                "type": "point",
+                "show": true,
+                "lineWidth": 1,
+                "radius": 3,
+                "color": "rgb(255, 0, 255)",
+                "fill": true,
+                "fillColor": "rgb(255, 0, 255)"
+              }
+            ],
+            "verticalMargin": 4
+          },
+          "styles": [
+            {
+              "type": "line",
+              "show": true,
+              "color": "rgb(255, 0, 255)",
+              "lineWidth": 1
+            },
+            {
+              "type": "lollipop",
+              "show": true,
+              "lineWidth": 1,
+              "radius": 0,
+              "color": "rgb(255, 0, 255)",
+              "fill": false
+            },
+            {
+              "type": "point",
+              "show": false,
+              "lineWidth": 1,
+              "radius": 2,
+              "color": "rgb(255, 0, 255)",
+              "fill": true,
+              "fillColor": "rgb(255, 0, 255)"
+            },
+            {
+              "type": "value",
+              "show": false,
+              "fillColor": "rgb(255, 0, 255)",
+              "marginWidth": 5,
+              "verticalOffset": 7,
+              "numberFormat": "###,##0"
+            }
+          ]
+        },
+        "time_type": "gmt",
+        "min_time": 1366812089,
+        "max_time": 1368205141,
+        "channel_height": 279
+      }
+    ],
+    "show_add_pane": false
+  }
+}
