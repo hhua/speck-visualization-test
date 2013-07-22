@@ -1,0 +1,15 @@
+{
+  "name": "Speck Test",
+  "description": "Speck Test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.1.x",
+    "socket.io": "0.9.x",
+    "ejs": "0.8.x"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
